@@ -1,0 +1,3 @@
+
+#include "AnimInstances/WarriorBaseAnimInstance.h"
+
